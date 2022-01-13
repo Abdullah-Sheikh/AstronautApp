@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1035370843033",
+    "project_id": "astronautdb-6da80",
+    "storage_bucket": "astronautdb-6da80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035370843033:android:02377163fc31dd490b2108",
+        "android_client_info": {
+          "package_name": "com.astronautnasa.splashactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035370843033-fo2o991gi3c2gpqqud17dlbh3l8g128q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUljNc0pd_NsbILzgXS4ujEkZ4zhxYls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035370843033-fo2o991gi3c2gpqqud17dlbh3l8g128q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035370843033:android:63ce53794a7ee1c50b2108",
+        "android_client_info": {
+          "package_name": "pk.nu.edu.astronautapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035370843033-fo2o991gi3c2gpqqud17dlbh3l8g128q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuUljNc0pd_NsbILzgXS4ujEkZ4zhxYls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035370843033-fo2o991gi3c2gpqqud17dlbh3l8g128q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

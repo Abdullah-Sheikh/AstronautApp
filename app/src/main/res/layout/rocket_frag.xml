@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    >
+
+
+    <View
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+    <TextView
+        android:layout_weight="1.5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Rocket Status"
+        android:textSize="28dp"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:gravity="center"
+
+        />
+
+    <View
+        android:layout_weight="1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+
+
+
+    <TextView
+        android:layout_weight="1"
+
+        android:id="@+id/dir"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Direction"
+        android:textSize="28dp"
+        android:layout_gravity="center"
+        android:background="@drawable/text_background"
+        android:gravity="center"
+        />
+    <View
+        android:layout_weight="0.25"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/speed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Speed"
+        android:textSize="28dp"
+        android:layout_gravity="center"
+        android:background="@drawable/text_background"
+        android:gravity="center"
+        />
+
+    <View
+        android:layout_weight="0.25"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+
+    <TextView
+        android:layout_weight="1"
+
+        android:id="@+id/dist_from_moon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Distance from Moon"
+        android:textSize="22dp"
+        android:layout_gravity="center"
+        android:background="@drawable/text_background"
+        android:gravity="center"
+        />
+    <View
+        android:layout_weight="0.25"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/dist_from_earth"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Distance from Earth"
+        android:textSize="22dp"
+        android:layout_gravity="center"
+        android:background="@drawable/text_background"
+        android:gravity="center"
+        />
+
+    <View
+        android:layout_weight="0.25"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/time_elspsed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Time elspsed"
+        android:textSize="22dp"
+        android:layout_gravity="center"
+        android:background="@drawable/text_background"
+        android:gravity="center"
+        />
+
+    <View
+        android:layout_weight="0.25"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+
+
+
+
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/oxygen_level"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Oxygen "
+        android:textSize="22dp"
+        android:layout_gravity="center"
+        android:background="@drawable/text_background"
+        android:gravity="center"
+        />
+    <View
+        android:layout_weight="0.25"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+
+
+    <TextView
+        android:layout_weight="1"
+        android:id="@+id/fuel_Remaining"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Fuel"
+        android:textSize="22dp"
+        android:layout_gravity="center"
+        android:background="@drawable/text_background"
+        android:gravity="center"
+        />
+    <View
+        android:layout_weight="2"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"/>
+
+
+
+
+
+
+</LinearLayout>
